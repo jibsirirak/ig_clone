@@ -1,5 +1,5 @@
 # IG_Clone
- >It's a cloning of the youtube page.
+ >It's a cloning of the IG page.
 
 ## Technologies Used
 - React 
